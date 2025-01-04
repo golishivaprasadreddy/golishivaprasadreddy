@@ -48,8 +48,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" /> </a>
 
 </p>
-##
+
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gspreddy6869&show_icons=true&locale=en&layout=compact&theme=radical" alt="gspreddy6869" /></p>
-##
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gspreddy6869&show_icons=true&locale=en&theme=radical" alt="gspreddy6869" /></p>
