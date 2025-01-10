@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gspreddy6869&label=Profile%20views&color=0e75b6&style=flat" alt="gspreddy6869" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gspreddy6869&theme=dracula&no-frame=true&margin-w=15" alt="gspreddy6869" /></a> </p>
-
+ 
 
 - 🔭 I’m currently working on **e-Go Bus** 
 
