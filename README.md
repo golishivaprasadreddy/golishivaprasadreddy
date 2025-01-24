@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shivaprasad Reddy Goli</h1>
-<h2 align="center">Co-Founder of e-Go Bus | Web Developer |  App Developer | Blockchain Enthusiast</h2>
+<h2 align="center">Co-Founder of e-Go Bus | Web Developer |  App Developer | Blockchain & ALML Enthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gspreddy6869&label=Profile%20views&color=0e75b6&style=flat" alt="gspreddy6869" /> </p>
 
