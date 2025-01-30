@@ -16,7 +16,6 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on **e-Go Bus**
 - 🌱 I’m currently learning **React Native**
-- 
 - 📫 How to reach me: **shivaprasadreddy.goli@gmail.com**
 
 ---
