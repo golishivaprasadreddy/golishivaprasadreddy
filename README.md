@@ -2,7 +2,7 @@
 <h2 align="center">Co-Founder of e-Go Bus | Web Developer | App Developer | Blockchain & AIML Enthusiast</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=golishivaprasadreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gspreddy6869 &label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
