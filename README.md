@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivaprasad Reddy Goli</h1>
-<h2 align="center">Co-Founder of e-Go Bus | Web Developer | App Developer | Blockchain , AI&ML Enthusiast</h2>
+<h2 align="center">Co-Founder of e-Go Bus | Web Developer | App Developer | Blockchain & AIML Enthusiast</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gspreddy6869&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=golishivaprasadreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gspreddy6869&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -41,19 +41,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gspreddy6869&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golishivaprasadreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gspreddy6869&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golishivaprasadreddy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gspreddy6869&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golishivaprasadreddy&theme=radical" alt="Profile Details" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gspreddy6869&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gspreddy6869&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golishivaprasadreddy&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golishivaprasadreddy&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
