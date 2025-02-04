@@ -56,5 +56,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golishivaprasadreddy&theme=radical" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golishivaprasadreddy&theme=radical" alt="Most Commit Language" />
 </p>
-
 ---
