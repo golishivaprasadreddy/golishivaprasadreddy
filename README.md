@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **shivaprasadreddy.goli@gmail.com**
 
----
+
 
 ### 📫 Connect with Me:
 <p align="center">
