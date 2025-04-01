@@ -20,7 +20,6 @@
 - 📫 How to reach me: **shivaprasadreddy.goli@gmail.com**
 
 
-
 ### 📫 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/shiva-prasad-reddy-goli" target="_blank">
