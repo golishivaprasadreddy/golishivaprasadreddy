@@ -13,7 +13,6 @@
   </a>
 </p>
  
-
 ### 🚀 About Me:
 - 🔭 I’m currently working on **e-Go Bus**
 - 🌱 I’m currently learning **React Native**
