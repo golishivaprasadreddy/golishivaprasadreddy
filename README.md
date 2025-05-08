@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=monokai&margin-w=10" alt="Shiva Prasad's GitHub Trophies" />
   </a>
 </p>
  
