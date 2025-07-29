@@ -7,15 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=golishivaprasadreddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=monokai&margin-w=10&no-bg=true"
-      alt="GitHub Trophies of golishivaprasadreddy"
-      style="max-width: 100%; height: auto;" 
-    />
-  </a>
-</p>
+
 ### 🚀 About Me:
 - 🔭 I’m currently working on **e-Go Bus**
 - 🌱 I’m currently learning **React Native**
@@ -32,6 +24,15 @@
   </a>
 </p>
  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=monokai&margin-w=10&no-bg=true"
+      alt="GitHub Trophies of golishivaprasadreddy"
+      style="max-width: 100%; height: auto;" 
+    />
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages & Tools:
