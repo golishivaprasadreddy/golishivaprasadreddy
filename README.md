@@ -9,7 +9,7 @@
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=golishivaprasadreddy&theme=darkhub&margin-w=10&no-bg=true"
-    alt="GitHub Trophies"
+    alt="GitHub Trophies" 
     style="max-width: 100%; height: auto;" 
   />
 </p>
